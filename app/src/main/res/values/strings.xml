@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Seleccion de Imagenes</string>
+    <string name="label">Activar cambio de Imagen!</string>
+    <string name="txtImg1">Imagen 1</string>
+    <string name="txtImg2">Imagen 2</string>
+    <string name="txtImg3">Imagen 3</string>
+    <string name="action_settings">Opciones</string>
+
+</resources>
